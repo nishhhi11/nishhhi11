@@ -2,9 +2,13 @@
 # 👋 Hi, I'm **Nishi Chopda**
 
 🎓 **B.Tech Computer Science Student**
+
 💻 **Aspiring Python & Web Developer**
+
 🚀 Passionate about building useful, real-world tech projects
+
 🌱 Currently exploring **Python, Web Dev, GitHub**, and **Product Thinking**
+
 ✨ Love turning ideas into **mini-startups & practical prototypes**
 
 ---
