@@ -83,6 +83,7 @@ A project inspired by **digital ants**, designed to automate tasks using decentr
 ## 📫 Connect With Me
 
 🔗 **GitHub:** [@nishhhi11](https://github.com/nishhhi11)
+
 🔗 **LinkedIn:** [Nishi Chopda](https://www.linkedin.com/in/nishi-chopda-8a4615378/)
 
 ---
