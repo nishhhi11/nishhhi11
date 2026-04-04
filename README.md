@@ -1,97 +1,78 @@
+<!-- 🌸 HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA2B9,40:FFB2C5,70:FFC2D1,100:FDD5DF&height=250&section=header&text=Nishi%20Chopda&desc=B.Tech%20CSE%20Student%20%7C%20Web%20Development%20Enthusiast&descSize=16&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60"/>
 
-#  Hi, I'm **Nishi Chopda**
+<!-- 💫 TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF8FAB&center=true&vCenter=true&width=550&lines=Hey+there,+I'm+Nishi+👋;Building+things+with+code;Learning+JavaScript+%26+React;Turning+ideas+into+reality+✨"/>
+</p>
 
- **B.Tech Computer Science Student**
-
-**Aspiring Python & Web Developer**
-
- Passionate about building useful, real-world tech projects
-
- Currently exploring **Python, Web Dev, GitHub**, and **Product Thinking**
-
- Love turning ideas into **mini-startups & practical prototypes**
-
----
-
-##  About Me
-
-I’m a curious learner who loves building solutions that **actually fix problems** — whether it's city issues, local business logistics, or automation using digital agents.
-
-* Comfortable with **Python**, learning **JavaScript & Web Dev**
-* Interested in **UI/UX, automation, and smart-city tech**
-* Working on projects that blend **technology + real impact**
-* Growing my skills in **Git, GitHub, project design, and documentation**
+<!-- 🌷 GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="210"/>
+</p>
 
 ---
 
-##  Tech Stack
+## 🌷 About Me
 
-### **Languages**
-
-* Python
-* C
-* JavaScript (beginner)
-
-### **Web**
-
-* HTML
-* CSS
-* Basic JavaScript
-
-### **Tools**
-
-* Git & GitHub
-* VS Code
-* Canva / Figma (UI & design)
+- 🎓 B.Tech CSE student with a passion for web development
+- 💻 **Currently diving into:** JavaScript & React
+- 🧠 **Comfortable with:** HTML, CSS, C++, Python
+- 🌱 On a journey to build things that matter — one commit at a time
+- ✨ Believer in clean code, cute designs, and continuous growth
 
 ---
 
-##  Featured Projects
+## 💖 Featured Projects
 
-### ** CivicScan – Smart City Issue Reporting App**
+### 🧑‍💻 CodeCrew
+> An interactive logic-based puzzle game designed to strengthen programming fundamentals
 
-A platform that lets citizens scan, report, and track civic problems like potholes, garbage dumps, or broken streetlights.
+**Tech stack:** HTML, CSS, JavaScript
 
- **Goal:** Make cities smarter, faster, and more responsive
-
- **Tech:** Python, HTML/CSS, JS, UI Design Concepts
-
- **Highlights:** Problem detection flow, reporting system, user-friendly screens
+🔗 [View Repository →](https://github.com/nishhhi11/Programming_Logic_Puzzle_Game_)
 
 ---
 
-### ** QuickKart – Hyperlocal Logistics App for Small Businesses**
+### 🎮 GALAGA
+> A classic arcade-style web game inspired by retro space shooters
 
-A rapid-delivery and pickup system designed to help small shops ship goods easily within their local area.
+**Tech stack:** HTML, CSS
 
- **Goal:** Provide fast, simple, affordable hyperlocal deliveries
-
- **Tech:** App flow design, UI structure, logistics model
-
- **Highlights:** Business model, problem-solution mapping, pitch-deck ready content
+🔗 [View Repository →](https://github.com/nishhhi11/HtmlCss_MiniProject)
 
 ---
 
-### ** Antelligence – Automated Task & Agent-Based System**
+## 🛠️ Tech Toolbox
 
-A project inspired by **digital ants**, designed to automate tasks using decentralized smart agents.
-
- **Goal:** Create a system where small agents perform tasks independently & efficiently
-
- **Tech:** Concept design, automation models, flow diagrams
-
- **Highlights:** Startup-style pitch deck, USP, GTM strategy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,python,js,react,git,github,vscode" />
+</p>
 
 ---
 
-##  Connect With Me
+## 📊 GitHub Stats
 
- **GitHub:** [@nishhhi11](https://github.com/nishhhi11)
-
- **LinkedIn:** [Nishi Chopda](https://www.linkedin.com/in/nishi-chopda-8a4615378/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishhhi11&show_icons=true&theme=buefy&bg_color=FFF0F3&title_color=FF8FAB&icon_color=FFA2B9&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishhhi11&theme=buefy&background=FFF0F3&stroke=FFA2B9&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB&hide_border=true" width="45%" />
+</p>
 
 ---
 
-## ⭐ My Motto
+## 🌐 Let's Connect
 
-**“Build. Break. Learn. Repeat. The journey matters more than perfection.”**
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishi-chopda-8a4615378">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:nishiichopda.11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💗 learning · building · growing
+</p>
