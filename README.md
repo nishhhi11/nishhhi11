@@ -54,10 +54,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishhhi11&show_icons=true&theme=buefy&bg_color=FFF0F3&title_color=FF8FAB&icon_color=FFA2B9&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishhhi11&theme=buefy&background=FFF0F3&stroke=FFA2B9&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nishhhi11&show_icons=true&theme=buefy&bg_color=FFF0F3&title_color=FF8FAB&icon_color=FFA2B9&hide_border=true" width="45%" />
+  
+  <img src="https://streak-stats.demolab.com?user=nishhhi11&theme=buefy&background=FFF0F3&stroke=FFA2B9&ring=FF8FAB&fire=FF8FAB&currStreakLabel=FF8FAB&hide_border=true" width="45%" />
 </p>
-
 ---
 
 ## 🌐 Let's Connect
