@@ -74,13 +74,13 @@ A browser-based arcade game inspired by classic space shooters.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishhhi11&show_icons=true&theme=chartreuse-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishhhi11&layout=compact&theme=chartreuse-dark)
+- **GitHub:** [@nishhhi11](https://github.com/nishhhi11)
+- **Public repositories:** Explore my projects in the [Repositories tab](https://github.com/nishhhi11?tab=repositories).
+- **Contribution activity:** View my [GitHub contribution graph](https://github.com/nishhhi11).
 
 ## 🐍 Contribution Graph
 
-![Contribution Snake](https://raw.githubusercontent.com/nishhhi11/nishhhi11/output/github-contribution-grid-snake-dark.svg)
+My contribution activity and coding history are visible on my [GitHub profile](https://github.com/nishhhi11).
 
 ## 🌐 Let's Connect
 
