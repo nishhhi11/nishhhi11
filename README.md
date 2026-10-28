@@ -1,70 +1,97 @@
-<!-- 🌸 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA2B9,40:FFB2C5,70:FFC2D1,100:FDD5DF&height=250&section=header&text=Nishi%20Chopda&desc=B.Tech%20CSE%20Student%20%7C%20Web%20Development%20Enthusiast&descSize=16&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60"/>
+# 🔐 Hey, I'm Nishi Chopda
 
-<!-- 💫 TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF8FAB&center=true&vCenter=true&width=550&lines=Hey+there,+I'm+Nishi+👋;Building+things+with+code;Learning+JavaScript+%26+React;Turning+ideas+into+reality+✨"/>
-</p>
+### B.Tech CSE Student · Cybersecurity Learner · Developer
 
-<!-- 🌷 GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="210"/>
-</p>
+I’m interested in understanding how systems work, how vulnerabilities emerge, and how we can build more secure technology.
 
----
+I learn by experimenting, building projects, breaking down problems, and asking *“what if?”*
 
-## 🌷 About Me
-
-- 🎓 B.Tech CSE student with a passion for web development
-- 💻 **Currently diving into:** JavaScript & React
-- 🧠 **Comfortable with:** HTML, CSS, C++, Python
-- 🌱 On a journey to build things that matter — one commit at a time
-- ✨ Believer in clean code, cute designs, and continuous growth
+```text
+> learning...
+> exploring...
+> testing...
+> building...
+> securing...
+```
 
 ---
 
-## 💖 Featured Projects
+## 🖥️ About Me
 
-### 🧑‍💻 CodeCrew
-> An interactive logic-based puzzle game designed to strengthen programming fundamentals
+- 🔐 Exploring cybersecurity, networking, and AI security.
+- 🧪 Interested in hands-on security experiments and vulnerability analysis.
+- 💻 Building projects while strengthening my programming fundamentals.
+- 🌐 Also enjoy web development and creating useful applications.
+- 🌱 Always learning, experimenting, and improving.
 
-**Tech stack:** HTML, CSS, JavaScript
+## 🛠️ Tech Stack
 
-🔗 [View Repository →](https://github.com/nishhhi11/Programming_Logic_Puzzle_Game_)
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Cybersecurity & Networking Tools**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🔒 Breaking the AI — In Progress
+Exploring prompt injection, LLM security testing, and defensive techniques for AI systems.
+
+### 🧩 CodeCrew
+An interactive logic-based puzzle game designed to strengthen programming fundamentals.
 
 ### 🎮 GALAGA
-> A classic arcade-style web game inspired by retro space shooters
+A browser-based arcade game inspired by classic space shooters.
 
-**Tech stack:** HTML, CSS
+> More projects and experiments are available in my repositories.
 
-🔗 [View Repository →](https://github.com/nishhhi11/HtmlCss_MiniProject)
+## 🧪 Currently Exploring
 
----
+- Cybersecurity fundamentals and web application security
+- Networking concepts, packet analysis, and network simulation
+- Python scripting and security automation
+- AI security and prompt injection
+- Data Structures and Algorithms
 
-## 🛠️ Tech Toolbox
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,python,js,react,git,github,vscode" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishhhi11&show_icons=true&theme=chartreuse-dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishhhi11&layout=compact&theme=chartreuse-dark)
 
+## 🐍 Contribution Graph
+
+![Contribution Snake](https://raw.githubusercontent.com/nishhhi11/nishhhi11/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishi-chopda-8a4615378">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:nishiichopda.11@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishi-chopda-8a4615378/)
 
 ---
 
-<p align="center">
-  💗 learning · building · growing
-</p>
+```text
+Learning by exploring.
+Building by experimenting.
+Securing by understanding.
+```
+
+<sub>Always curious. Always learning. 🔐</sub>
