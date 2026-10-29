@@ -1,30 +1,27 @@
+ <div align="center">
 
-<p align="center">
-  <img src="./Nishi Chopda Cybersecurity Banner.png" alt="Nishi Chopda Cybersecurity Banner" width="100%">
-</p>
+<img src="./Nishi%20Chopda%20Cybersecurity%20Banner.png" alt="Nishi Chopda — Cybersecurity Banner" width="100%">
 
-# Nishi Chopda
+<a href="https://github.com/DenverCoding/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=168BFF&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Developer+%7C+Problem+Solver;Exploring+AI+Security;Learning+by+Building" alt="Typing animation"></a>
 
-### B.Tech CSE Student · Cybersecurity Learner · Developer
-
-*Understanding systems. Exploring vulnerabilities. Building securely.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-168BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishhhi11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF3CAC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishi-chopda-8a4615378/)
+<a href="https://github.com/nishhhi11"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=168BFF" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/nishi-chopda-8a4615378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-168BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
 ---
 
-##  About Me
+## 🖥️ About Me
 
-I'm interested in understanding how systems work, how vulnerabilities emerge, and how we can build more secure technology.
+I'm a B.Tech Computer Science student interested in how systems work, how vulnerabilities emerge, and how technology can be made more secure.
 
--  Exploring cybersecurity, networking, and AI security.
--  Interested in hands-on security experiments and vulnerability analysis.
--  Building projects while strengthening my programming fundamentals.
--  I also enjoy web development and creating useful applications.
--  Learning through experimentation, problem-solving, and continuous practice.
+| 👩‍💻 About Me | 🔎 Currently Exploring |
+|:---|:---|
+| 🔐 Cybersecurity and AI security | Web application security fundamentals |
+| 🌐 Web development and useful applications | Networking and packet analysis |
+| 🧪 Hands-on experiments and problem-solving | Python scripting and security automation |
+| 📚 Strengthening programming fundamentals | Data Structures and Algorithms |
+| 🚀 Learning by building projects | Prompt injection and LLM security |
 
 ```text
 > learning...
@@ -34,7 +31,7 @@ I'm interested in understanding how systems work, how vulnerabilities emerge, an
 > securing...
 ```
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -46,7 +43,7 @@ I'm interested in understanding how systems work, how vulnerabilities emerge, an
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF3CAC?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-168BFF?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-168BFF?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Cybersecurity & Networking**
@@ -57,63 +54,78 @@ I'm interested in understanding how systems work, how vulnerabilities emerge, an
 **Developer Tools**
 
 ![Git](https://img.shields.io/badge/Git-FF3CAC?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-168BFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-168BFF?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=168BFF)
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-###  Breaking the AI — In Progress
+### 🛍️ Aura-Styler
+
+A web development project focused on styling and user experience.
+
+**Tech:** Add the verified technologies used in this project.
+
+[Repository](REPLACE_WITH_AURA_STYLER_REPOSITORY_URL) · [Live Demo](REPLACE_WITH_AURA_STYLER_DEMO_URL)
+
+### 🧠 AI Personality Insights
+
+An interactive quiz project exploring personality insights through user responses.
+
+**Tech:** Add the verified technologies used in this project.
+
+[Repository](REPLACE_WITH_AI_PERSONALITY_REPOSITORY_URL) · [Live Demo](REPLACE_WITH_AI_PERSONALITY_DEMO_URL)
+
+### 🔒 Breaking the AI — In Progress
+
 Exploring prompt injection, LLM security testing, and defensive techniques for AI systems.
 
-###  CodeCrew
+**Focus:** AI security · Prompt injection · Defensive testing
+
+[Repository](https://github.com/nishhhi11?tab=repositories)
+
+### 🧩 CodeCrew
+
 An interactive, logic-based puzzle game designed to strengthen programming fundamentals.
 
-###  GALAGA
+[Explore my repositories](https://github.com/nishhhi11?tab=repositories)
+
+### 🎮 GALAGA
+
 A browser-based arcade game inspired by classic space shooters.
 
-*Explore my [repositories](https://github.com/nishhhi11?tab=repositories) for more projects and experiments.*
+[Explore my repositories](https://github.com/nishhhi11?tab=repositories)
 
-##  Currently Exploring
+> Project links, technologies, and demos should be updated with the exact repository details before publishing.
 
-- Cybersecurity fundamentals and web application security
-- Networking concepts, packet analysis, and network simulation
-- Python scripting and security automation
+## 🔐 Security Learning
+
+I'm building my cybersecurity foundation through practical exploration of:
+
+- Network concepts and packet analysis
+- Web security fundamentals
 - AI security and prompt injection
-- Data Structures and Algorithms
+- Python scripting and automation
 
+*This section reflects my learning interests, not professional certifications or claimed security expertise.*
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nishhhi11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=168BFF&icon_color=FF3CAC&text_color=FFFFFF)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nishhhi11&layout=compact&hide_border=true&bg_color=0D1117&title_color=168BFF&text_color=FFFFFF)
-
-</div>
-
-
-##  Contribution 
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nishhhi11/nishhhi11/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/nishhhi11/nishhhi11/output/github-snake.svg" alt="GitHub contribution snake animation">
 
 </div>
 
-
+*The animation will appear after the GitHub Actions workflow successfully generates and publishes the SVG to the `output` branch.*
 
 ---
 
 <div align="center">
 
-```text
-Learning by exploring.
-Building by experimenting.
-Securing by understanding.
-```
+**Learning by exploring.**  
+**Building by experimenting.**  
+**Securing by understanding.**
 
-*Always curious. Always learning. *
+*Always curious. Always learning. 🔐*
 
 </div>
