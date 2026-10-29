@@ -93,9 +93,15 @@ A browser-based arcade game inspired by classic space shooters.
 
 </div>
 
-## 📈 Contribution Activity
 
-View my [GitHub contribution history](https://github.com/nishhhi11/graphs/contributors) and [public repositories](https://github.com/nishhhi11?tab=repositories).
+##  Contribution 
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/nishhhi11/nishhhi11/output/github-snake.svg)
+
+</div>
+
 
 
 ---
