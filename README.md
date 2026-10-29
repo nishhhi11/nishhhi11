@@ -81,23 +81,22 @@ A browser-based arcade game inspired by classic space shooters.
 - AI security and prompt injection
 - Data Structures and Algorithms
 
-##  GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishhhi11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=168BFF&icon_color=FF3CAC&text_color=FFFFFF" alt="GitHub statistics" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishhhi11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=168BFF&icon_color=FF3CAC&text_color=FFFFFF)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishhhi11&layout=compact&hide_border=true&bg_color=0D1117&title_color=168BFF&text_color=FFFFFF" alt="Most used languages" />
-
-</div>
-
-##  Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishhhi11&bg_color=0D1117&color=FFFFFF&line=168BFF&point=FF3CAC&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishhhi11&layout=compact&hide_border=true&bg_color=0D1117&title_color=168BFF&text_color=FFFFFF)
 
 </div>
+
+## 📈 Contribution Activity
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishhhi11&bg_color=0D1117&color=FFFFFF&line=168BFF&point=FF3CAC&area=true&hide_border=true)](https://github.com/nishhhi11)
+
+
 
 ---
 
