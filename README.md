@@ -82,20 +82,20 @@ A browser-based arcade game inspired by classic space shooters.
 - Data Structures and Algorithms
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishhhi11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=168BFF&icon_color=FF3CAC&text_color=FFFFFF)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nishhhi11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=168BFF&icon_color=FF3CAC&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishhhi11&layout=compact&hide_border=true&bg_color=0D1117&title_color=168BFF&text_color=FFFFFF)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nishhhi11&layout=compact&hide_border=true&bg_color=0D1117&title_color=168BFF&text_color=FFFFFF)
 
 </div>
 
 ## 📈 Contribution Activity
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishhhi11&bg_color=0D1117&color=FFFFFF&line=168BFF&point=FF3CAC&area=true&hide_border=true)](https://github.com/nishhhi11)
-
+View my [GitHub contribution history](https://github.com/nishhhi11/graphs/contributors) and [public repositories](https://github.com/nishhhi11?tab=repositories).
 
 
 ---
