@@ -3,7 +3,7 @@
   <img src="./Nishi Chopda Cybersecurity Banner.png" alt="Nishi Chopda Cybersecurity Banner" width="100%">
 </p>
 
-# 🔐 Nishi Chopda
+# Nishi Chopda
 
 ### B.Tech CSE Student · Cybersecurity Learner · Developer
 
@@ -16,15 +16,15 @@
 
 ---
 
-## 🖥️ About Me
+##  About Me
 
 I'm interested in understanding how systems work, how vulnerabilities emerge, and how we can build more secure technology.
 
-- 🔐 Exploring cybersecurity, networking, and AI security.
-- 🧪 Interested in hands-on security experiments and vulnerability analysis.
-- 💻 Building projects while strengthening my programming fundamentals.
-- 🌐 I also enjoy web development and creating useful applications.
-- 🌱 Learning through experimentation, problem-solving, and continuous practice.
+-  Exploring cybersecurity, networking, and AI security.
+-  Interested in hands-on security experiments and vulnerability analysis.
+-  Building projects while strengthening my programming fundamentals.
+-  I also enjoy web development and creating useful applications.
+-  Learning through experimentation, problem-solving, and continuous practice.
 
 ```text
 > learning...
@@ -34,7 +34,7 @@ I'm interested in understanding how systems work, how vulnerabilities emerge, an
 > securing...
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -60,20 +60,20 @@ I'm interested in understanding how systems work, how vulnerabilities emerge, an
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-168BFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔒 Breaking the AI — In Progress
+###  Breaking the AI — In Progress
 Exploring prompt injection, LLM security testing, and defensive techniques for AI systems.
 
-### 🧩 CodeCrew
+###  CodeCrew
 An interactive, logic-based puzzle game designed to strengthen programming fundamentals.
 
-### 🎮 GALAGA
+###  GALAGA
 A browser-based arcade game inspired by classic space shooters.
 
 *Explore my [repositories](https://github.com/nishhhi11?tab=repositories) for more projects and experiments.*
 
-## 🧪 Currently Exploring
+##  Currently Exploring
 
 - Cybersecurity fundamentals and web application security
 - Networking concepts, packet analysis, and network simulation
@@ -81,7 +81,7 @@ A browser-based arcade game inspired by classic space shooters.
 - AI security and prompt injection
 - Data Structures and Algorithms
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -91,7 +91,7 @@ A browser-based arcade game inspired by classic space shooters.
 
 </div>
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -109,6 +109,6 @@ Building by experimenting.
 Securing by understanding.
 ```
 
-*Always curious. Always learning. 🔐*
+*Always curious. Always learning. *
 
 </div>
