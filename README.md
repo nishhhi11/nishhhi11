@@ -1,5 +1,7 @@
 
-<div align="center">
+<p align="center">
+  <img src="./Nishi Chopda Cybersecurity Banner.png" alt="Nishi Chopda Cybersecurity Banner" width="100%">
+</p>
 
 # 🔐 Nishi Chopda
 
