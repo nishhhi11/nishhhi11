@@ -21,10 +21,10 @@ I'm a B.Tech Computer Science student interested in how systems work, how vulner
 
 ### 👩‍💻 About Me
 
-- 🔐 Exploring cybersecurity and AI security
-- 🌐 Building web applications
-- 🧪 Learning through practical experiments
-- 💻 Strengthening programming fundamentals
+-  Exploring cybersecurity and AI security
+-  Building web applications
+-  Learning through practical experiments
+-  Strengthening programming fundamentals
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +49,7 @@ I'm a B.Tech Computer Science student interested in how systems work, how vulner
 > securing...
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -75,13 +75,13 @@ I'm a B.Tech Computer Science student interested in how systems work, how vulner
 ![GitHub](https://img.shields.io/badge/GitHub-FF3CAC?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-168BFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Aura-Styler
+###  Aura-Styler
 
 A styling-focused application exploring user experience and interactive web development.
 
@@ -90,7 +90,7 @@ A styling-focused application exploring user experience and interactive web deve
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Personality Insights
+###  AI Personality Insights
 
 An interactive quiz project exploring personality insights through user responses.
 
@@ -101,7 +101,7 @@ An interactive quiz project exploring personality insights through user response
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 Breaking the AI
+###  Breaking the AI
 
 **In progress**
 
@@ -124,7 +124,7 @@ GALAGA — a browser-based arcade game inspired by classic space shooters.
 </tr>
 </table>
 
-## 🔐 Security Learning
+##  Security Learning
 
 Currently building my foundation through hands-on learning in:
 
