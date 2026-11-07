@@ -29,7 +29,7 @@ I'm a B.Tech Computer Science student interested in how systems work, how vulner
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Currently Exploring
+###  Currently Exploring
 
 - Web security fundamentals
 - Networking and packet analysis
