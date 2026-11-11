@@ -152,6 +152,6 @@ Currently building my foundation through hands-on learning in:
 **Building by experimenting.**  
 **Securing by understanding.**
 
-*Always curious. Always learning. 🔐*
+*Always curious. Always learning. *
 
 </div>
